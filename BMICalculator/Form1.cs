@@ -11,6 +11,7 @@ using System.Windows.Forms;
 /* Name - Simarpreet Kaur
  * Date - August 15,2017
  * Description - BMI calculator created
+ * https://github.com/Simarpreetgill?tab=repositories
  */
 namespace BMICalculator
 {
